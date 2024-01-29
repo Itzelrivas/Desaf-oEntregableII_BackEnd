@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Vestido rojo",
+    "description": "Vestido color rojo con piedritas plateadas",
+    "price": 234,
+    "thumbnail": "www.url.de.un.vestido.com",
+    "code": 2342,
+    "stock": 3,
+    "id": 1
+  },
+  {
+    "title": "Vestido morado",
+    "description": "Vestido morado con flores y tipo corset",
+    "price": 789,
+    "thumbnail": "www.url.de.un.vestido.com",
+    "code": 5322,
+    "stock": 1,
+    "id": 2
+  },
+  {
+    "title": "Playera amarilla",
+    "description": "Playera amarilla con rayas",
+    "price": 670,
+    "thumbnail": "www.url.fake.imaginacion.com",
+    "code": 1789,
+    "stock": 2,
+    "id": 4
+  },
+  {
+    "title": "Plantalon morado",
+    "description": "Pantalon de vestir color morado oscuro",
+    "price": 480,
+    "thumbnail": "www.url.fake.pantalon.com",
+    "code": 1934,
+    "stock": 1,
+    "id": 5
+  }
+]
